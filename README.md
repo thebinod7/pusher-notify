@@ -10,4 +10,6 @@ Download and change current directory to project root
 6. run `npm install`
 7. run `npm app.js`
 
+Browse `http://localhost:4000` on your browser.
+
 Contact: thebinod7@gmail.com
