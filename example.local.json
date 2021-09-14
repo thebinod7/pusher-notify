@@ -1,0 +1,14 @@
+{
+  "app": {
+    "name": "Pusher Notify",
+    "port": "4000"
+  },
+  "services": {
+    "pusher": {
+      "cluster": "YOUR_CLUSTUR_NAME",
+      "appId": "YOUR_APP_ID",
+      "key": "YOUR_PUSHER_KEY",
+      "secret": "YOUR_PUSHER_SECRET"
+    }
+  }
+}
